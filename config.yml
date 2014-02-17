@@ -1,0 +1,6 @@
+---
+:debug: true
+:TIMESPAN_IN_ROUND: 60
+:TIMESPAN_BETWEEN_ROUND: 3600
+:RUNTIME_LOG_PATH: './runtime_log'
+:THREADCOUNT: 10
